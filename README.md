@@ -4,9 +4,14 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <title>Bootstrap Assignment</title>
   </head>
   <body>
+    <div class="card">
+  <div class="card-body">
+    I've included below your available options.
+  </div>
+</div>
   <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Vehicles</a>
@@ -33,4 +38,10 @@
 </nav>
     <h1>Hello, world!</h1>
   </body>
+  <button type="button" class="btn btn-primary btn-lg">Button Example One</button>
+<button type="button" class="btn btn-secondary btn-lg">Button Example Two</button>
+  <!-- Vertically centered modal -->
+<div class="modal-dialog modal-dialog-centered">
+  Modal Example
+</div>
 </html>
